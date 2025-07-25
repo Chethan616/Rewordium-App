@@ -29,11 +29,16 @@ Package Name: `com.noxquill.rewordium`
 
 Below are screenshots from the current testing build:
 
-![Screenshot 1](screenshots/screenshot1.jpg)  
-![Screenshot 2](screenshots/screenshot2.jpg)  
-![Screenshot 3](screenshots/screenshot3.jpg)  
-![Screenshot 4](screenshots/screenshot4.jpg)  
-![Screenshot 5](screenshots/screenshot5.jpg)
+<div align="center">
+  <img src="screenshots/screenshot1.jpg" width="250"/>
+  <img src="screenshots/screenshot2.jpg" width="250"/>
+  <img src="screenshots/screenshot3.jpg" width="250"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/screenshot4.jpg" width="250"/>
+  <img src="screenshots/screenshot5.jpg" width="250"/>
+</div>
 
 ## Repository Scope
 
@@ -44,4 +49,4 @@ This repository is for demonstration purposes only. The production source code i
 For testing access or collaboration inquiries:
 
 **Email:** chethankrishna2022@gmail.com  
-**LinkedIn:** [linkedin.com/in/chethan-krishna-manikonda-33561628a](https://linkedin.com/in/chethan-krishna-manikonda-33561628a)
+**LinkedIn:** [https://linkedin.com/in/chethan-krishna-manikonda-33561628a](https://linkedin.com/in/chethan-krishna-manikonda-33561628a)
