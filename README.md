@@ -38,6 +38,7 @@ Below are screenshots from the current testing build:
 <div align="center">
   <img src="screenshots/screenshot4.jpg" width="250"/>
   <img src="screenshots/screenshot5.jpg" width="250"/>
+  <img src="screenshots/screenshot6.jpg" width="250"/>
 </div>
 
 ## Repository Scope
